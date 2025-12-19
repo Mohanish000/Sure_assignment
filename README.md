@@ -322,9 +322,6 @@ rm -rf node_modules client/node_modules
 npm run install-all
 ```
 
-## License
-
-MIT License
 
 ## Author
 
